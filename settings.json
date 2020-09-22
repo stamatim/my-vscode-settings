@@ -1,0 +1,53 @@
+{
+    "workbench.colorTheme": "Firefox Devtools",
+    "window.zoomLevel": 0,
+    "editor.formatOnPaste": true,
+    "editor.minimap.maxColumn": 100,
+    "editor.lineHeight": 20,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "workbench.iconTheme": "helium-icon-theme",
+    "explorer.confirmDelete": false,
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "push:menu"
+    ],
+    "git.autofetch": true,
+    "sync.gist": "412f5eead1f6652dbd8051161c248724",
+    "codestream.email": "smorellas@protonmail.com",
+    "todo-tree.tree.showScanModeButton": false,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path.mac": "/Users/stamos/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+        "vs-kubernetes.draft-path.mac": "/Users/stamos/.vs-kubernetes/tools/draft/darwin-amd64/draft",
+        "vs-kubernetes.helm-path.mac": "/Users/stamos/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+        "vs-kubernetes.helm-path.linux": "/home/stamatim/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path.linux": "/home/stamatim/.vs-kubernetes/tools/draft/linux-amd64/draft",
+        "vs-kubernetes.kubectl-path.linux": "/home/stamatim/.vs-kubernetes/tools/kubectl/kubectl",
+        "vs-kubernetes.minikube-path.linux": "/home/stamatim/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "dashboard.projectData": null,
+    "json.schemas": [
+        {
+            "name": "vscode-expo-manifest",
+            "url": "file:///home/stamatim/.vscode-server/data/User/globalStorage/bycedric.vscode-expo/manifest-39.0.0.json",
+            "fileMatch": [
+                "app.json",
+                "app.config.json"
+            ]
+        }
+    ],
+    "discord-chat.token": "NTUxODAxMTk3MzU5NjYxMDYy.XyrGcQ.oDntqyKtxcAbf-avsayvhsJIL2s",
+    "java.semanticHighlighting.enabled": true,
+    "git.enableSmartCommit": true,
+    "jshint.config": "",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "python.languageServer": "Microsoft",
+    "explorer.confirmDragAndDrop": false
+}

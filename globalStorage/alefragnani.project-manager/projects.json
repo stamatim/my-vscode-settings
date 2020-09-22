@@ -1,0 +1,72 @@
+[
+	{
+		"name": "COM S 474 - Introduction to Machine Learning",
+		"rootPath": "vscode-remote://wsl+default/mnt/c/Users/Stamati/Developer/MLClass",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "ISU-COM-S-474 - My Repo",
+		"rootPath": "vscode-remote://wsl+default/mnt/c/Users/Stamati/Developer/School/ISU-COM-S-474",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Senior Design Website",
+		"rootPath": "\\\\sdweb.ece.iastate.edu\\sddec20-10\\www",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "freqtrade-[crypto bot]",
+		"rootPath": "c:\\Users\\Stamati\\dev\\freqtrade",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "mern-example",
+		"rootPath": "c:\\Users\\Stamati\\dev\\mern-example",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "volt-bootstrap-5-dashboard",
+		"rootPath": "c:\\Users\\Stamati\\dev\\volt-bootstrap-5-dashboard",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "coreui-free-react-admin-template",
+		"rootPath": "vscode-remote://wsl+Ubuntu/home/stamatim/Developer/CLONES/coreui-free-react-admin-template",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "sddec20-10",
+		"rootPath": "c:\\Users\\Stamati\\Developer\\sddec20-10",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "cs474-hw",
+		"rootPath": "vscode-remote://wsl+default/mnt/c/Users/Stamati/Developer/School/ISU-COM-S-474",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "nodekraft-resources",
+		"rootPath": "c:\\Users\\Stamati\\dev\\resources",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
