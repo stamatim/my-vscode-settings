@@ -260,6 +260,13 @@
 	},
 	{
 		"identifier": {
+			"id": "gruntfuggly.todo-tree",
+			"uuid": "21556"
+		},
+		"installed": true
+	},
+	{
+		"identifier": {
 			"id": "hookyqr.beautify",
 			"uuid": "23"
 		},
