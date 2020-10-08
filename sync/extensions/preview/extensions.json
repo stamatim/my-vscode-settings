@@ -1,57 +1,7 @@
 [
 	{
 		"identifier": {
-			"id": "vscode.bat"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.clojure"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.coffeescript"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.configuration-editing"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.cpp"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.csharp"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.css"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.css-language-features"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.debug-auto-launch"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.debug-server-ready"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.docker"
 		}
 	},
 	{
@@ -62,11 +12,6 @@
 	{
 		"identifier": {
 			"id": "vscode.extension-editing"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.fsharp"
 		}
 	},
 	{
@@ -91,37 +36,12 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.go"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.groovy"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.grunt"
 		}
 	},
 	{
 		"identifier": {
 			"id": "vscode.gulp"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.handlebars"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.hlsl"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.html"
 		}
 	},
 	{
@@ -136,27 +56,7 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.ini"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.jake"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.java"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.javascript"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.json"
 		}
 	},
 	{
@@ -166,22 +66,7 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.less"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.log"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.lua"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.make"
 		}
 	},
 	{
@@ -196,11 +81,6 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.merge-conflict"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.microsoft-authentication"
 		}
 	},
@@ -211,62 +91,7 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.objective-c"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.perl"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.php"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.php-language-features"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.powershell"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.pug"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.python"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.r"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.razor"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.ruby"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.rust"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.scss"
 		}
 	},
 	{
@@ -276,234 +101,139 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.shaderlab"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.shellscript"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.sql"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.swift"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-abyss"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-defaults"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-kimbie-dark"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-monokai"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-monokai-dimmed"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-quietlight"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-red"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-solarized-dark"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-solarized-light"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.theme-tomorrow-night-blue"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.typescript"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.typescript-language-features"
 		}
 	},
 	{
 		"identifier": {
-			"id": "vscode.vb"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.vscode-theme-seti"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.xml"
-		}
-	},
-	{
-		"identifier": {
-			"id": "vscode.yaml"
-		}
-	},
-	{
-		"identifier": {
 			"id": "aaron-bond.better-comments",
-			"uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b"
+			"uuid": "1779"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "abusaidm.html-snippets",
-			"uuid": "be992f3f-9f22-4b66-a1d2-ecad04c28a28"
+			"uuid": "50"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "akamud.vscode-theme-onedark",
-			"uuid": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6"
+			"uuid": "889"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "alefragnani.bookmarks",
-			"uuid": "b689fcc8-d494-4dbf-a228-2c694a578afc"
+			"uuid": "26862"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "arcticicestudio.nord-visual-studio-code",
-			"uuid": "6f35c257-7fd5-4bc2-9cd1-01976589c17a"
+			"uuid": "25267"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "arnohovhannisyan.syncify",
-			"uuid": "aaf3ac99-4f9d-4dd8-bf76-72187e68b2f6"
+			"uuid": "30138"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "auchenberg.vscode-browser-preview",
-			"uuid": "126e4983-78cb-433f-a67c-9b07c39c7802"
+			"uuid": "31071"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "christian-kohler.npm-intellisense",
-			"uuid": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8"
+			"uuid": "291"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "coenraads.bracket-pair-colorizer-2",
-			"uuid": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a"
+			"uuid": "1791"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dbaeumer.vscode-eslint",
-			"uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+			"uuid": "58"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "donjayamanne.githistory",
-			"uuid": "5960f38e-0bbe-4644-8f9c-9c8824e82511"
+			"uuid": "64"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dracula-theme.theme-dracula",
-			"uuid": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1"
+			"uuid": "1210"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dsznajder.es7-react-js-snippets",
-			"uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+			"uuid": "901"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "eamodio.gitlens",
-			"uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+			"uuid": "71"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "enkia.tokyo-night",
-			"uuid": "1cac7443-911e-48b9-8341-49f3880c288a"
+			"uuid": "47192"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "esbenp.prettier-vscode",
-			"uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+			"uuid": "92"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "eskilop.northernlights",
-			"uuid": "7268a216-81ec-47f4-ba04-32ea9115372a"
+			"uuid": "15500"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "firefox-devtools.vscode-firefox-debug",
-			"uuid": "c5f4d87f-a524-462c-ac01-923eb19cf3e9"
+			"uuid": "25784"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "fivethree.vscode-ionic-snippets",
-			"uuid": "cdc86be7-fd82-4e06-9306-934b76cf2ae0"
+			"uuid": "18118"
 		},
 		"installed": true
 	},
@@ -517,42 +247,42 @@
 	{
 		"identifier": {
 			"id": "formulahendry.code-runner",
-			"uuid": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3"
+			"uuid": "118"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "github.github-vscode-theme",
-			"uuid": "7328a705-91fc-49e6-8293-da6f112e482d"
+			"uuid": "16536"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "gruntfuggly.todo-tree",
-			"uuid": "261cac81-cd7b-4555-bb41-0c2d2bcd3e70"
+			"uuid": "21556"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "hookyqr.beautify",
-			"uuid": "697255a9-3f36-44c8-b084-d3b91edfb23a"
+			"uuid": "23"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "icrawl.discord-vscode",
-			"uuid": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5"
+			"uuid": "25277"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "idleberg.icon-fonts",
-			"uuid": "17a873c7-491e-4797-9172-186de70f5e98"
+			"uuid": "1373"
 		},
 		"installed": true
 	},
@@ -566,21 +296,21 @@
 	{
 		"identifier": {
 			"id": "juanblanco.solidity",
-			"uuid": "25baab03-fe9a-40c7-b683-55c9a0a92480"
+			"uuid": "1007"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "k--kato.intellij-idea-keybindings",
-			"uuid": "f30b63fa-e34a-40af-a573-5de5ecfb6c5e"
+			"uuid": "23085"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ms-azuretools.vscode-docker",
-			"uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+			"uuid": "779"
 		},
 		"installed": true
 	},
@@ -601,7 +331,7 @@
 	{
 		"identifier": {
 			"id": "ms-vscode.azure-account",
-			"uuid": "819a23e1-b6c6-41cf-9029-e653b537d996"
+			"uuid": "1055"
 		},
 		"installed": true
 	},
@@ -644,42 +374,42 @@
 	{
 		"identifier": {
 			"id": "muhammad-sammy.csharp",
-			"uuid": "57b4ceec-c35a-4a96-ab38-23c6338df406"
+			"uuid": "38483"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "naumovs.color-highlight",
-			"uuid": "121396ad-85a1-45ec-9fd1-d95028a847f5"
+			"uuid": "31079"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "pkief.material-icon-theme",
-			"uuid": "5db78037-f674-459f-a236-db622c427c5b"
+			"uuid": "37"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "pranaygp.vscode-css-peek",
-			"uuid": "0b8f8d63-11a2-4194-969c-ca7488b3413a"
+			"uuid": "18102"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "radiolevity.neofloss",
-			"uuid": "9dc3825e-b458-4e16-ba42-aca2867c1bb3"
+			"uuid": "30099"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "redhat.java",
-			"uuid": "198a707e-28af-4e84-8610-6e2f628dd12d"
+			"uuid": "180"
 		},
 		"installed": true
 	},
@@ -693,126 +423,450 @@
 	{
 		"identifier": {
 			"id": "ritwickdey.liveserver",
-			"uuid": "b63c44fd-0457-4696-99e9-dbfdf70d77de"
+			"uuid": "193"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "softwaredotcom.music-time",
-			"uuid": "b47e047d-2da9-4bf2-afb4-af43be37a2a4"
+			"uuid": "64680"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "streetsidesoftware.code-spell-checker",
-			"uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+			"uuid": "16493"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "thekalinga.bootstrap4-vscode",
-			"uuid": "2a658c1b-308a-41e8-805a-fc8abda483bc"
+			"uuid": "32394"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "uloco.theme-bluloco-dark",
-			"uuid": "13bc2ec0-b396-4d55-a0e3-45bec5917fc3"
+			"uuid": "53820"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "uloco.theme-bluloco-light",
-			"uuid": "ee960969-f319-4daf-b7a0-a4bc8982cb8a"
+			"uuid": "53813"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-debug",
-			"uuid": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281"
+			"uuid": "200"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-dependency",
-			"uuid": "7865e561-1c83-410e-9b99-aabada597a7e"
+			"uuid": "206"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-test",
-			"uuid": "67c06b0d-1891-42ca-b2a8-113e79bff069"
+			"uuid": "218"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-maven",
-			"uuid": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312"
+			"uuid": "224"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
+			"id": "vscode.bat",
+			"uuid": "682"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.clojure",
+			"uuid": "665"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.coffeescript",
+			"uuid": "547"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.configuration-editing",
+			"uuid": "442"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.cpp",
+			"uuid": "686"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.csharp",
+			"uuid": "690"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.css",
+			"uuid": "586"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.css-language-features",
+			"uuid": "616"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.debug-auto-launch",
+			"uuid": "694"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.docker",
+			"uuid": "450"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.fsharp",
+			"uuid": "518"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.go",
+			"uuid": "551"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.groovy",
+			"uuid": "421"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.handlebars",
+			"uuid": "555"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.hlsl",
+			"uuid": "621"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.html",
+			"uuid": "502"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.ini",
+			"uuid": "706"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.java",
+			"uuid": "656"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.javascript",
+			"uuid": "531"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.json",
+			"uuid": "493"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.less",
+			"uuid": "434"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.lua",
+			"uuid": "458"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.make",
+			"uuid": "574"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.merge-conflict",
+			"uuid": "611"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.objective-c",
+			"uuid": "446"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.perl",
+			"uuid": "425"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.php",
+			"uuid": "454"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.powershell",
+			"uuid": "578"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.pug",
+			"uuid": "510"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.python",
+			"uuid": "480"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.r",
+			"uuid": "644"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.razor",
+			"uuid": "438"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.ruby",
+			"uuid": "678"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.rust",
+			"uuid": "539"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.scss",
+			"uuid": "648"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.shaderlab",
+			"uuid": "702"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.shellscript",
+			"uuid": "652"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.sql",
+			"uuid": "484"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.swift",
+			"uuid": "598"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-abyss",
+			"uuid": "417"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-defaults",
+			"uuid": "413"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-kimbie-dark",
+			"uuid": "607"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-monokai",
+			"uuid": "476"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-monokai-dimmed",
+			"uuid": "590"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-quietlight",
+			"uuid": "535"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-red",
+			"uuid": "409"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-solarized-dark",
+			"uuid": "514"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-solarized-light",
+			"uuid": "698"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-tomorrow-night-blue",
+			"uuid": "467"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.typescript",
+			"uuid": "594"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.vb",
+			"uuid": "582"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.vscode-theme-seti",
+			"uuid": "429"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.xml",
+			"uuid": "506"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.yaml",
+			"uuid": "603"
+		}
+	},
+	{
+		"identifier": {
 			"id": "wakatime.vscode-wakatime",
-			"uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
+			"uuid": "19655"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "wayou.vscode-todo-highlight",
-			"uuid": "97a08c5f-6667-4242-a5c5-045dfb6bd4b9"
+			"uuid": "1266"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "wwm.better-align",
-			"uuid": "8bd90cfe-8edd-4b92-b992-2337fdc06604"
+			"uuid": "34101"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "xabikos.javascriptsnippets",
-			"uuid": "a2cec723-5349-460d-9de9-0fd1f8d3456f"
+			"uuid": "238"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "yummygum.city-lights-theme",
-			"uuid": "9af62ee3-0097-4b7b-891a-4a94eb3e1009"
+			"uuid": "70448"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "yzhang.markdown-all-in-one",
-			"uuid": "98790d67-10fa-497c-9113-f6c7489207b2"
+			"uuid": "1436"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "zhuangtongfa.material-theme",
-			"uuid": "26a529c9-2654-4b95-a63f-02f6a52429e6"
+			"uuid": "20085"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "zignd.html-css-class-completion",
-			"uuid": "7b71fc1b-190d-4f7d-95d1-93e422649b0a"
+			"uuid": "348"
 		},
 		"installed": true
 	}
