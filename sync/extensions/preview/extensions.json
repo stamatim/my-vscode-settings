@@ -46,11 +46,6 @@
 	},
 	{
 		"identifier": {
-			"id": "vscode.html-language-features"
-		}
-	},
-	{
-		"identifier": {
 			"id": "vscode.image-preview"
 		}
 	},
@@ -114,7 +109,7 @@
 	{
 		"identifier": {
 			"id": "abusaidm.html-snippets",
-			"uuid": "50"
+			"uuid": "be992f3f-9f22-4b66-a1d2-ecad04c28a28"
 		},
 		"installed": true
 	},
@@ -584,6 +579,12 @@
 		"identifier": {
 			"id": "vscode.html",
 			"uuid": "502"
+		}
+	},
+	{
+		"identifier": {
+			"id": "vscode.html-language-features",
+			"uuid": "f9d34e1d-3349-4d33-884e-1f3cd9ad7626"
 		}
 	},
 	{
