@@ -49,5 +49,6 @@
         "esversion": 6
     },
     "python.languageServer": "Microsoft",
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "window.menuBarVisibility": "toggle"
 }
