@@ -377,7 +377,7 @@
 	{
 		"identifier": {
 			"id": "aaron-bond.better-comments",
-			"uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b"
+			"uuid": "1779"
 		},
 		"installed": true
 	},
@@ -390,99 +390,36 @@
 	},
 	{
 		"identifier": {
-			"id": "adobe.xd",
-			"uuid": "93c6affc-4931-46b0-ae84-1ac29386fb1c"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ahmadawais.shades-of-purple",
-			"uuid": "431aa1a8-74f4-43d5-a83b-f4960510da5f"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "akamud.vscode-theme-onedark",
-			"uuid": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6"
+			"uuid": "889"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "alefragnani.bookmarks",
-			"uuid": "b689fcc8-d494-4dbf-a228-2c694a578afc"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "alefragnani.project-manager",
-			"uuid": "1b747f06-3789-4ebd-ac99-f1fe430c3347"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "angular.ng-template",
-			"uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "anseki.vscode-color",
-			"uuid": "37d7747f-e652-4eac-83de-f2939f7e2121"
+			"uuid": "26862"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "arcticicestudio.nord-visual-studio-code",
-			"uuid": "6f35c257-7fd5-4bc2-9cd1-01976589c17a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ardenivanov.svelte-intellisense",
-			"uuid": "ba2d692e-ab31-4861-8b19-e37fc1f859ed"
+			"uuid": "25267"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "arnohovhannisyan.syncify",
-			"uuid": "aaf3ac99-4f9d-4dd8-bf76-72187e68b2f6"
+			"uuid": "30138"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "auchenberg.vscode-browser-preview",
-			"uuid": "126e4983-78cb-433f-a67c-9b07c39c7802"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "austin.code-gnu-global",
-			"uuid": "de611071-4d05-4903-821c-6878df63d4af"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "azemoh.one-monokai",
-			"uuid": "b027c4b2-25ad-46db-b574-05dae3b2dc92"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "beardedbear.beardedtheme",
-			"uuid": "d1818e93-bccc-4812-8b8b-37aabc5a7a94"
+			"uuid": "31071"
 		},
 		"installed": true
 	},
@@ -495,29 +432,8 @@
 	},
 	{
 		"identifier": {
-			"id": "bycedric.vscode-expo",
-			"uuid": "7ae71939-4941-445c-b0c2-8893c8568ea5"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "cantonios.project-templates",
-			"uuid": "4e722d73-65a2-4f2f-a272-b7e7ac283aa8"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "chakrounanas.turbo-console-log",
-			"uuid": "6623619a-676d-4cde-943f-a3c193b44fc0"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "christian-kohler.npm-intellisense",
-			"uuid": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8"
+			"uuid": "291"
 		},
 		"installed": true
 	},
@@ -530,183 +446,99 @@
 	},
 	{
 		"identifier": {
-			"id": "chrmarti.regex",
-			"uuid": "7ed7bccd-f358-4c6f-88c0-1296185abaa1"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "clintonrost.theme-firefox-devtools",
-			"uuid": "c34c83ee-534f-44c9-90cf-d0234fe6b6ab"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "codestream.codestream",
-			"uuid": "a59a33cb-9f43-4f1a-890f-5d400cb82389"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "coenraads.bracket-pair-colorizer-2",
-			"uuid": "5a6e2b21-1d61-4acd-b31b-907f9c23f18a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "dbaeumer.jshint",
-			"uuid": "82dfe17d-bb64-404e-bcc5-f9803f7ab5d5"
+			"uuid": "1791"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dbaeumer.vscode-eslint",
-			"uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+			"uuid": "58"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "donjayamanne.githistory",
-			"uuid": "5960f38e-0bbe-4644-8f9c-9c8824e82511"
+			"uuid": "64"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dracula-theme.theme-dracula",
-			"uuid": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "drknoxy.eslint-disable-snippets",
-			"uuid": "e55376f2-3b3e-4916-8dbf-34df2fce687b"
+			"uuid": "1210"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "dsznajder.es7-react-js-snippets",
-			"uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+			"uuid": "901"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "eamodio.gitlens",
-			"uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ecmel.vscode-html-css",
-			"uuid": "aaee577c-f062-495a-9816-0cbd442f1d25"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "eg2.vscode-npm-script",
-			"uuid": "ae9e3eb0-3357-4cc0-90ee-598d2d384757"
+			"uuid": "71"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "enkia.tokyo-night",
-			"uuid": "1cac7443-911e-48b9-8341-49f3880c288a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "equimper.react-native-react-redux",
-			"uuid": "7f7e0e9c-b5ad-4e21-a425-f63bd56cb13f"
+			"uuid": "47192"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "esbenp.prettier-vscode",
-			"uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+			"uuid": "92"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "eskilop.northernlights",
-			"uuid": "7268a216-81ec-47f4-ba04-32ea9115372a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "fallenmax.mithril-emmet",
-			"uuid": "4f63037e-3a44-436f-a483-4c65a77f15f6"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "faustinoaq.javac-linter",
-			"uuid": "7b672217-e3f9-4ae6-a2f2-2ae4a63af838"
+			"uuid": "15500"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "firefox-devtools.vscode-firefox-debug",
-			"uuid": "c5f4d87f-a524-462c-ac01-923eb19cf3e9"
+			"uuid": "25784"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "fivethree.vscode-ionic-snippets",
-			"uuid": "cdc86be7-fd82-4e06-9306-934b76cf2ae0"
+			"uuid": "18118"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "formulahendry.auto-close-tag",
-			"uuid": "d3836729-9cc1-42c1-b2af-d50071f57d29"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "formulahendry.auto-rename-tag",
-			"uuid": "6e440e71-8ed9-4f25-bb78-4b13096b8a03"
+			"uuid": "112"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "formulahendry.code-runner",
-			"uuid": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "formulahendry.terminal",
-			"uuid": "186ace18-2b44-490d-863e-0bd29b229a27"
+			"uuid": "118"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "github.github-vscode-theme",
-			"uuid": "7328a705-91fc-49e6-8293-da6f112e482d"
+			"uuid": "16536"
 		},
 		"installed": true
 	},
@@ -720,7 +552,7 @@
 	{
 		"identifier": {
 			"id": "gruntfuggly.todo-tree",
-			"uuid": "261cac81-cd7b-4555-bb41-0c2d2bcd3e70"
+			"uuid": "21556"
 		},
 		"installed": true
 	},
@@ -740,121 +572,36 @@
 	},
 	{
 		"identifier": {
-			"id": "helgardrichard.helium-icon-theme",
-			"uuid": "235f4502-e288-45b4-a36c-3c0825d81e1b"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "henriiik.docker-linter",
-			"uuid": "5e1ad6e2-8470-4064-95b4-8f4e4f218af5"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "hookyqr.beautify",
-			"uuid": "697255a9-3f36-44c8-b084-d3b91edfb23a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "hoovercj.haskell-linter",
-			"uuid": "416774c3-0e14-4434-b93d-853d616ad247"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "humao.rest-client",
-			"uuid": "dda49fd5-1f3b-4d25-bf61-4fc41905ede5"
+			"uuid": "23"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "icrawl.discord-vscode",
-			"uuid": "2bbe1392-1ad3-4f59-82bc-fccaa3afc3a5"
+			"uuid": "25277"
 		},
-		"disabled": true,
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "idleberg.icon-fonts",
-			"uuid": "17a873c7-491e-4797-9172-186de70f5e98"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "immament.vscode-ngrx-uml",
-			"uuid": "ef05ba28-295f-4c83-b83b-12e0d90193f1"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ionic-preview.ionic-preview",
-			"uuid": "dc5775fb-4df7-4ef1-973f-b04a91fa6611"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ipedrazas.kubernetes-snippets",
-			"uuid": "1bf2afc4-296d-482b-89ff-3318c474a2a8"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ivangabriele.vscode-heroku",
-			"uuid": "445dacc3-595d-429d-9f10-8e5d15310e5a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "jasonnutter.search-node-modules",
-			"uuid": "ee108066-df8b-43ae-9a83-e6c11400a759"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "jccr.sandbox",
-			"uuid": "22cbe6b6-c4a8-43f5-851a-cb49d8004985"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "joelday.docthis",
-			"uuid": "90a838c3-675b-4b87-b7a5-75ea88432cce"
+			"uuid": "1373"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "johnpapa.angular2",
-			"uuid": "214cbfb9-7c06-4467-bad4-357ae83eb587"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "joy-yu.css-snippets",
-			"uuid": "7de5ad1d-3863-436b-96b3-ed6855756bb3"
+			"uuid": "298"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "juanblanco.solidity",
-			"uuid": "25baab03-fe9a-40c7-b683-55c9a0a92480"
+			"uuid": "1007"
 		},
 		"installed": true
 	},
@@ -868,140 +615,35 @@
 	{
 		"identifier": {
 			"id": "k--kato.intellij-idea-keybindings",
-			"uuid": "f30b63fa-e34a-40af-a573-5de5ecfb6c5e"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "kamikillerto.vscode-colorize",
-			"uuid": "445ba381-f232-4150-9056-d790bd76d698"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "kosz78.nim",
-			"uuid": "1f3d8d31-8ff8-4429-8565-7313f9c67971"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "krueger71.crt-themes",
-			"uuid": "46ed7e19-d635-4ec8-97f8-783097fe5d22"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "kruemelkatze.vscode-dashboard",
-			"uuid": "7e9bd4ed-7309-4a08-9887-cc57b08c5aae"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "leizongmin.node-module-intellisense",
-			"uuid": "1bb92b2c-526c-4bfd-bb38-5bae1b278c89"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "lior-chamla.google-fonts",
-			"uuid": "a9b8f02e-09f1-4a8a-9fb3-e233d3dd20ff"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "lucaperret.vscode-now",
-			"uuid": "b20630e5-966d-4a25-a8eb-68fd70106de3"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "mellena1.eclipse-new-java-project",
-			"uuid": "d2856d68-6ac4-4245-9399-3131a5d9ea1c"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "mrmlnc.vscode-scss",
-			"uuid": "beb68b20-7c55-471c-9b63-3486f9423566"
+			"uuid": "23085"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ms-azuretools.vscode-docker",
-			"uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-dotnettools.csharp",
-			"uuid": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-kubernetes-tools.vscode-kubernetes-tools",
-			"uuid": "4837e4f3-1b01-4732-b1a6-daa57ef64cab"
+			"uuid": "779"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ms-python.anaconda-extension-pack",
-			"uuid": "5a8b9107-e667-4ec8-a792-d066a93b9eff"
+			"uuid": "310"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ms-python.python",
-			"uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode-remote.remote-ssh",
-			"uuid": "607fd052-be03-4363-b657-2bd62b83d28a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode-remote.remote-ssh-edit",
-			"uuid": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode-remote.remote-wsl",
-			"uuid": "f0c5397b-d357-4197-99f0-cb4202f22818"
+			"uuid": "146"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ms-vscode.azure-account",
-			"uuid": "819a23e1-b6c6-41cf-9029-e653b537d996"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ms-vscode.cpptools",
-			"uuid": "690b692e-e8a9-493f-b802-8089d50ac1b2"
+			"uuid": "1055"
 		},
 		"installed": true
 	},
@@ -1050,134 +692,57 @@
 	},
 	{
 		"identifier": {
-			"id": "ms-vsliveshare.vsliveshare",
-			"uuid": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "msjsdiag.vscode-react-native",
-			"uuid": "b35cd5b4-18db-46f9-ba9e-06096c3b22d3"
+			"id": "muhammad-sammy.csharp",
+			"uuid": "38483"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "naumovs.color-highlight",
-			"uuid": "121396ad-85a1-45ec-9fd1-d95028a847f5"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "nucllear.vscode-extension-auto-import",
-			"uuid": "c727ab43-8d12-4f26-9648-f1d91035c9b6"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "octref.vetur",
-			"uuid": "2f5dd8cb-d251-4d70-abfe-ddebcb077483"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ofhumanbondage.react-proptypes-intellisense",
-			"uuid": "4ef434e7-60b0-4c98-99d9-e82c67093516"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "peakchen90.open-html-in-browser",
-			"uuid": "e552c70b-32af-4b0b-8f48-5e7e01e688b0"
+			"uuid": "31079"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "pkief.material-icon-theme",
-			"uuid": "5db78037-f674-459f-a236-db622c427c5b"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "pnp.polacode",
-			"uuid": "d80b9a94-f4a6-4e39-bc42-62212e365682"
+			"uuid": "37"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "pranaygp.vscode-css-peek",
-			"uuid": "0b8f8d63-11a2-4194-969c-ca7488b3413a"
+			"uuid": "18102"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "radiolevity.neofloss",
-			"uuid": "9dc3825e-b458-4e16-ba42-aca2867c1bb3"
+			"uuid": "30099"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "redhat.java",
-			"uuid": "198a707e-28af-4e84-8610-6e2f628dd12d"
+			"uuid": "180"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "redhat.vscode-yaml",
-			"uuid": "2061917f-f76a-458a-8da9-f162de22b97e"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "rishikeshgaikar.react-native-boilerplate",
-			"uuid": "3219c976-c2a2-4a0a-84b3-f2aad8dc841d"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "ritwickdey.live-sass",
-			"uuid": "ad94b437-b5a7-4249-bf5f-df472ae0d084"
+			"uuid": "186"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "ritwickdey.liveserver",
-			"uuid": "b63c44fd-0457-4696-99e9-dbfdf70d77de"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "rvest.vs-code-prettier-eslint",
-			"uuid": "d4b06bd6-36a0-469f-be55-c0a73413b688"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "sallar.vscode-duotone-dark",
-			"uuid": "344c4c0e-58d1-4c96-a8ec-7332addc037c"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "saurabh.integrated-stackoverflow",
-			"uuid": "7192fe71-de6a-44c8-b826-7465ac2989c9"
+			"uuid": "193"
 		},
 		"installed": true
 	},
@@ -1190,211 +755,120 @@
 	},
 	{
 		"identifier": {
-			"id": "sidthesloth.html5-boilerplate",
-			"uuid": "f45dc69c-8d62-4ea1-b01f-3ab90854acb6"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
 			"id": "softwaredotcom.music-time",
-			"uuid": "b47e047d-2da9-4bf2-afb4-af43be37a2a4"
+			"uuid": "64680"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "streetsidesoftware.code-spell-checker",
-			"uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "sujan.code-blue",
-			"uuid": "e040918e-a5fa-407c-b0af-607287357259"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "svelte.svelte-vscode",
-			"uuid": "c5463f77-75d9-4a25-8cc4-d8541a461285"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "techer.open-in-browser",
-			"uuid": "fef63133-dae3-40fb-b81d-6da7617b4b1e"
+			"uuid": "16493"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "thekalinga.bootstrap4-vscode",
-			"uuid": "2a658c1b-308a-41e8-805a-fc8abda483bc"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "theumletteam.umlet",
-			"uuid": "4faa9136-b40e-4794-b418-02cbaae3d1e5"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "tht13.html-preview-vscode",
-			"uuid": "76fbde36-77d4-4688-b1f8-202727442961"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "tobiastimm.duotoned",
-			"uuid": "6acf0b6b-2d50-4cf9-bdd2-86b4085bccb5"
+			"uuid": "32394"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "uloco.theme-bluloco-dark",
-			"uuid": "13bc2ec0-b396-4d55-a0e3-45bec5917fc3"
+			"uuid": "53820"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "uloco.theme-bluloco-light",
-			"uuid": "ee960969-f319-4daf-b7a0-a4bc8982cb8a"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "visualstudioexptteam.vscodeintellicode",
-			"uuid": "876e8f93-74d0-4f4f-91b7-34a09f19f444"
+			"uuid": "53813"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-debug",
-			"uuid": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281"
+			"uuid": "200"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-dependency",
-			"uuid": "7865e561-1c83-410e-9b99-aabada597a7e"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "vscjava.vscode-java-pack",
-			"uuid": "96f11e1f-1a46-4592-b084-f025b2c2a81f"
+			"uuid": "206"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-java-test",
-			"uuid": "67c06b0d-1891-42ca-b2a8-113e79bff069"
+			"uuid": "218"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "vscjava.vscode-maven",
-			"uuid": "b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312"
+			"uuid": "224"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "wakatime.vscode-wakatime",
-			"uuid": "f2fd462f-f1bd-4c62-b54f-59a4e5ffc6a3"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "wallabyjs.quokka-vscode",
-			"uuid": "aae0701b-111f-49c1-9000-abd37a442f28"
+			"uuid": "19655"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "wayou.vscode-todo-highlight",
-			"uuid": "97a08c5f-6667-4242-a5c5-045dfb6bd4b9"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "wix.vscode-import-cost",
-			"uuid": "c46b0018-f317-4b6c-a785-d2039b27338f"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "wscats.eno",
-			"uuid": "0e8e71fb-6b26-4602-8e4a-1741a7b40a08"
+			"uuid": "1266"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "wwm.better-align",
-			"uuid": "8bd90cfe-8edd-4b92-b992-2337fdc06604"
+			"uuid": "34101"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "xabikos.javascriptsnippets",
-			"uuid": "a2cec723-5349-460d-9de9-0fd1f8d3456f"
+			"uuid": "238"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "yummygum.city-lights-theme",
-			"uuid": "9af62ee3-0097-4b7b-891a-4a94eb3e1009"
+			"uuid": "70448"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "yzhang.markdown-all-in-one",
-			"uuid": "98790d67-10fa-497c-9113-f6c7489207b2"
-		},
-		"installed": true
-	},
-	{
-		"identifier": {
-			"id": "zeplin.zeplin",
-			"uuid": "7a1bf992-6b95-4932-b704-fac3c97b596d"
+			"uuid": "1436"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "zhuangtongfa.material-theme",
-			"uuid": "26a529c9-2654-4b95-a63f-02f6a52429e6"
+			"uuid": "20085"
 		},
 		"installed": true
 	},
 	{
 		"identifier": {
 			"id": "zignd.html-css-class-completion",
-			"uuid": "7b71fc1b-190d-4f7d-95d1-93e422649b0a"
+			"uuid": "348"
 		},
 		"installed": true
 	}
